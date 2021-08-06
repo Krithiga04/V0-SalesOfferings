@@ -3,11 +3,16 @@
     <types>
         <members>Test2__c.Age__c</members>
         <members>Test2__c.Date_Of_Birth__c</members>
+        <members>Test2__c.Ph_No__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Test2__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
     </types>
     <version>52.0</version>
 </Package>

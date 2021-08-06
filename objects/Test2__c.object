@@ -172,6 +172,14 @@
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
+    <fields>
+        <fullName>Ph_No__c</fullName>
+        <externalId>false</externalId>
+        <label>Ph.No</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
     <label>Test2</label>
     <nameField>
         <label>Test2 Name</label>
