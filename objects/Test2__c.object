@@ -154,6 +154,16 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Address__c</fullName>
+        <externalId>false</externalId>
+        <label>Address</label>
+        <length>72</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Age__c</fullName>
         <externalId>false</externalId>
         <label>Age</label>
@@ -179,6 +189,15 @@
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Phone</type>
+  </fields>
+<fields>
+        <fullName>Mailid__c</fullName>
+        <externalId>false</externalId>
+        <label>Mailid</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
     </fields>
     <label>Test2</label>
     <nameField>
