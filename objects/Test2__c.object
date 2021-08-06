@@ -183,6 +183,14 @@
         <type>Date</type>
     </fields>
     <fields>
+        <fullName>Ph_No__c</fullName>
+        <externalId>false</externalId>
+        <label>Ph.No</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+  </fields>
+<fields>
         <fullName>Mailid__c</fullName>
         <externalId>false</externalId>
         <label>Mailid</label>
