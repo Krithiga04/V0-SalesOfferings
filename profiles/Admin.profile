@@ -36,6 +36,11 @@
         <field>Devendra__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Jawhar__c</field>
+      <readable>true</readable>
+       </fieldPermissions>
      <fieldPermissions>
         <editable>true</editable>
         <field>Remi__c</field>
